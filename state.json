@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-15 20:45:46 UTC",
+  "updated": "2026-07-15 21:30:42 UTC",
   "wallet": "D8kchufoRN5kYzniEzD77xCWy2B89uMz5bP89hwTqcLm",
   "sol": 0.0028,
   "usdt": 0.0062,
-  "price": 67.53,
+  "price": 67.48,
   "hl_usdc": 0.0,
   "hl_coin": null,
   "pot_eur": 0.2,
@@ -17,13 +17,45 @@
   "entry_px": null,
   "pos_pnl_pct": null,
   "txs": [
-    {"sig": "3uzgV8JadkjW6FNE...", "time": "2026-07-15 17:49", "solscan": "https://solscan.io/tx/3uzgV8JadkjW6FNEgVGVB5VLtD9rKgcxoU5HDqpvo65ZhaFNede83PagFF57skUrigRx3rdc36KymQrrt8ELVcPm"},
-    {"sig": "3v9vgV4k9245oM7Z...", "time": "2026-07-15 17:44", "solscan": "https://solscan.io/tx/3v9vgV4k9245oM7Zx8BMpPZPU5zNDGuahjw1SJFdKNt5ZY59TCCXqwzoTcJDbQwfrX9r8ADb7Ux6cZSfkQhPjzk"},
-    {"sig": "5L5mKf6qXb9WRPm6...", "time": "2026-07-15 16:07", "solscan": "https://solscan.io/tx/5L5mKf6qXb9WRPm6dQx5jsedqupaKec8digePMHrN882L3ypxb5TwBjuYkLPnLTyCkydvRRecMLxGcx3gcmcV4wL"},
-    {"sig": "k294Uy8TA6j4UBdq...", "time": "2026-07-15 15:47", "solscan": "https://solscan.io/tx/k294Uy8TA6j4UBdqaURBK2AugQwT4T5zGCSczRVEA3y3yJxXzNwB5TDfD4rAkfk1UKXj4wp1o2SKaK8DCX6Lzw6"},
-    {"sig": "3Y9LWddtbgVvLimd...", "time": "2026-07-15 15:46", "solscan": "https://solscan.io/tx/3Y9LWddtbgVvLimdVBFmkTmSwjWXUNJgusT8JHcQgCjeehtmef2RoCWEseqMZap8uY4kFHhxrnTVuGVzAQG1QFJ1"},
-    {"sig": "iHDXaPbVEmivrHP8...", "time": "2026-07-15 15:24", "solscan": "https://solscan.io/tx/iHDXaPbVEmivrHP8dFDAsnJu61RztbA1cgKSRUWHahX3JkfeybXvKRnGxa1FMFubTmtqsrUzVMCVM1z6TPzqydk"},
-    {"sig": "2k99EKgTQorgvw3f...", "time": "2026-07-15 14:09", "solscan": "https://solscan.io/tx/2k99EKgTQorgvw3fJVbQutLMStMV3kNgMj265pBmtAWKMKiXZSPLog4dznzUVthcHHCGU4HxBzPMyFVWgKMg9sND"},
-    {"sig": "ArmuuVPNZx8tXfW5...", "time": "2026-07-15 14:08", "solscan": "https://solscan.io/tx/ArmuuVPNZx8tXfW5BPgr7CRtWK5DSiABgRa96UFcKVDtFRi6iNYU9ohBBT1XgTaNg76qdTiWdqmHTG9vNN8Y1ki"}
+    {
+      "sig": "3uzgV8JadkjW6FNE...",
+      "time": "2026-07-15 17:49",
+      "solscan": "https://solscan.io/tx/3uzgV8JadkjW6FNEgVGVB5VLtD9rKgcxoU5HDqpvo65ZhaFNede83PagFF57skUrigRx3rdc36KymQrrt8ELVcPm"
+    },
+    {
+      "sig": "3v9vgV4k9245oM7Z...",
+      "time": "2026-07-15 17:44",
+      "solscan": "https://solscan.io/tx/3v9vgV4k9245oM7Zx8BMpPZPU5zNDGuahjw1SJFdKNt5ZY59TCCXqwzoTcJDbQwfrX9r8ADb7Ux6cZSfkQhPjzk"
+    },
+    {
+      "sig": "5L5mKf6qXb9WRPm6...",
+      "time": "2026-07-15 16:07",
+      "solscan": "https://solscan.io/tx/5L5mKf6qXb9WRPm6dQx5jsedqupaKec8digePMHrN882L3ypxb5TwBjuYkLPnLTyCkydvRRecMLxGcx3gcmcV4wL"
+    },
+    {
+      "sig": "k294Uy8TA6j4UBdq...",
+      "time": "2026-07-15 15:47",
+      "solscan": "https://solscan.io/tx/k294Uy8TA6j4UBdqaURBK2AugQwT4T5zGCSczRVEA3y3yJxXzNwB5TDfD4rAkfk1UKXj4wp1o2SKaK8DCX6Lzw6"
+    },
+    {
+      "sig": "3Y9LWddtbgVvLimd...",
+      "time": "2026-07-15 15:46",
+      "solscan": "https://solscan.io/tx/3Y9LWddtbgVvLimdVBFmkTmSwjWXUNJgusT8JHcQgCjeehtmef2RoCWEseqMZap8uY4kFHhxrnTVuGVzAQG1QFJ1"
+    },
+    {
+      "sig": "iHDXaPbVEmivrHP8...",
+      "time": "2026-07-15 15:24",
+      "solscan": "https://solscan.io/tx/iHDXaPbVEmivrHP8dFDAsnJu61RztbA1cgKSRUWHahX3JkfeybXvKRnGxa1FMFubTmtqsrUzVMCVM1z6TPzqydk"
+    },
+    {
+      "sig": "2k99EKgTQorgvw3f...",
+      "time": "2026-07-15 14:09",
+      "solscan": "https://solscan.io/tx/2k99EKgTQorgvw3fJVbQutLMStMV3kNgMj265pBmtAWKMKiXZSPLog4dznzUVthcHHCGU4HxBzPMyFVWgKMg9sND"
+    },
+    {
+      "sig": "ArmuuVPNZx8tXfW5...",
+      "time": "2026-07-15 14:08",
+      "solscan": "https://solscan.io/tx/ArmuuVPNZx8tXfW5BPgr7CRtWK5DSiABgRa96UFcKVDtFRi6iNYU9ohBBT1XgTaNg76qdTiWdqmHTG9vNN8Y1ki"
+    }
   ]
 }

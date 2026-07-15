@@ -3,7 +3,7 @@
 Live dashboard voor de SOL/perp trading bot. P&L, scanner-signalen en HL-account.
 
 - **Lokaal:** `dashboard.html` (auto-refresh 30s) of `dashboard_preview.png`
-- **Online:** GitHub Pages (private repo, alleen eigenaar ziet 't)
+- **Online:** https://bakerybeats.github.io/sol-trading-dashboard/ (GitHub Pages, public repo)
 
 ## Strategie
 Wacht op bevestigde edge (vol-breakout + momentum + funding-tailwind), dan SOL/WIF/BONK perp 5x.

@@ -1,0 +1,7 @@
+# Sensitive files - never commit
+.env
+*.env
+fee_ledger.py
+recover_arb.py
+hl_perp.py
+gen_hl_wallet.py

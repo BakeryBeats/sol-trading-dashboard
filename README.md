@@ -6,7 +6,7 @@ Live dashboard voor de SOL/perp trading bot. P&L, scanner-signalen en HL-account
 - **Online:** https://bakerybeats.github.io/sol-trading-dashboard/ (GitHub Pages, public repo)
 
 ## Strategie
-Wacht op bevestigde edge (vol-breakout + momentus + funding-tailwind), dan SOL/WIF/BONK perp 5x.
+Wacht op bevestigde edge (vol-breakout + momentum + funding-tailwind), dan SOL/WIF/BONK perp 5x.
 In/uit markt, -40% stop, +100% TP, kill-switch 50% drawdown. PAPER tot LIVE_PERPS=1.
 
 ## Update

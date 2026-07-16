@@ -1,21 +1,24 @@
 {
-  "updated": "2026-07-16 21:17:26 UTC",
+  "updated": "2026-07-16 21:38:52 UTC",
   "wallet": "D8kchufoRN5kYzniEzD77xCWy2B89uMz5bP89hwTqcLm",
   "sol": 0.0009,
   "usdt": 0.0062,
-  "price": 66.32,
-  "hl_usdc": 13.27,
+  "price": 66.28,
+  "hl_usdc": 24.43,
   "hl_coin": "WIF",
-  "pot_eur": 12.28,
+  "pot_eur": 22.54,
   "start_eur": 8.59,
-  "pnl_eur": 3.69,
-  "pnl_pct": 42.91,
+  "pnl_eur": 13.95,
+  "pnl_pct": 162.38,
   "fees_eur": 0.0155,
-  "pnl_net_eur": 3.67,
-  "pnl_net_pct": 42.73,
-  "position": "short",
-  "entry_px": 0.15359,
-  "pos_pnl_pct": -0.04,
+  "pnl_net_eur": 13.93,
+  "pnl_net_pct": 162.2,
+  "position": null,
+  "entry_px": null,
+  "pos_pnl_pct": null,
+  "pos_coin": null,
+  "pos_now_px": null,
+  "pos_size": null,
   "txs": [
     {
       "sig": "3moGzKh81sEkXuSr...",
@@ -62,5 +65,6 @@
       "time": "2026-07-15 14:08",
       "solscan": "https://solscan.io/tx/ArmuuVPNZx8tXfW5BPgr7CRtWK5DSiABgRa96UFcKVDtFRi6iNYU9ohBBT1XgTaNg76qdTiWdqmHTG9vNN8Y1ki"
     }
-  ]
+  ],
+  "_warning": "HL-lezes flaky (~50% geven 0/leeg) -> live-bot churnt WIF-positie open/close elke ~2-5 min. Laatste on-chain fill 21:34:21 UTC = Close Short 72 -> FLAT. hl_usdc hier = bot-waarde (~24.45, consistent met commit-historie); HL-clearinghouse toonde ~13.24 (mogelijk perp-only of flaky). Controleer live op hyperliquid.xyz."
 }

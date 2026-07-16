@@ -1,13 +1,9 @@
-# Sol Trading Dashboard
+# SOL Trading Dashboard
 
-Live dashboard voor de SOL/perp trading bot. P&L, scanner-signalen en HL-account.
+Paper-mode SOL/perp trading bot dashboard. Auto-updated every 15 min via cron.
 
-- **Lokaal:** `dashboard.html` (auto-refresh 30s) of `dashboard_preview.png`
-- **Online:** https://bakerybeats.github.io/sol-trading-dashboard/ (GitHub Pages, public repo)
+- `dashboard.html` / `index.html` — live dashboard (GitHub Pages)
+- `state.json` — current portfolio state
+- `dashboard_preview.png` — PNG snapshot for Telegram
 
-## Strategie
-Wacht op bevestigde edge (vol-breakout + momentum + funding-tailwind), dan SOL/WIF/BONK perp 5x.
-In/uit markt, -40% stop, +100% TP, kill-switch 50% drawdown. PAPER tot LIVE_PERPS=1.
-
-## Update
-De cron (elke 15 min) pusht `dashboard.html` + `state.json` + `dashboard_preview.png` hiernaartoe.
+Mode: PAPER (LIVE_PERPS=OFF). No live orders placed.

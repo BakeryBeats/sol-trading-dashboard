@@ -2,7 +2,7 @@
 
 Live dashboard voor de SOL/perp trading bot. P&L, scanner-signalen en HL-account.
 
-- **Z1okal:** `dashboard.html` (auto-refresh 30s) of `dashboard_preview.png`
+- **Lokaal:** `dashboard.html` (auto-refresh 30s) of `dashboard_preview.png`
 - **Online:** https://bakerybeats.github.io/sol-trading-dashboard/ (GitHub Pages, public repo)
 
 ## Strategie

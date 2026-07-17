@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-17 14:47:09 UTC",
+  "updated": "2026-07-17 14:55:20 UTC",
   "wallet": "D8kchufoRN5kYzniEzD77xCWy2B89uMz5bP89hwTqcLm",
   "sol": 0.0009,
   "usdt": 0.0062,
-  "price": 65.03,
+  "price": 64.9,
   "hl_spot_usdc": 24.65,
   "hl_perp_av": 0.0,
   "total_usd": 24.72,
@@ -21,51 +21,208 @@
   "pos_coin": null,
   "pos_now_px": null,
   "pos_size": null,
-  "txs": [
+  "hl_trades": [
     {
-      "sig": "3moGzKh81sEkXuSr...",
-      "time": "2026-07-16 13:20",
-      "solscan": "https://solscan.io/tx/3moGzKh81sEkXuSrxHkYsCtertDdD3Z2LJY1VvSoRAbimFVr5U8z7SLCYpTZ8m3mH6YHJ1YRCCN74NZsmfB7rkUH"
+      "coin": "SOL",
+      "side": "Close Short",
+      "entry": 74.773,
+      "exit": 74.773,
+      "sz": 0.16,
+      "pnl": 0.00592,
+      "when": "2026-07-17 12:02",
+      "closed": true
     },
     {
-      "sig": "3uzgV8JadkjW6FNE...",
-      "time": "2026-07-15 17:49",
-      "solscan": "https://solscan.io/tx/3uzgV8JadkjW6FNEgVGVB5VLtD9rKgcxoU5HDqpvo65ZhaFNede83PagFF57skUrigRx3rdc36KymQrrt8ELVcPm"
+      "coin": "SOL",
+      "side": "Open Short",
+      "entry": 74.81,
+      "exit": 74.81,
+      "sz": 0.16,
+      "pnl": 0.0,
+      "when": "2026-07-17 12:01",
+      "closed": false
     },
     {
-      "sig": "3v9vgV4k9245oM7Z...",
-      "time": "2026-07-15 17:44",
-      "solscan": "https://solscan.io/tx/3v9vgV4k9245oM7Zx8BMpPZPU5zNDGuahjw1SJFdKNt5ZY59TCCXqwzoTcJDbQwfrX9r8ADb7Ux6cZSfkQhPjzk"
+      "coin": "BTC",
+      "side": "Close Short",
+      "entry": 63331.0,
+      "exit": 63331.0,
+      "sz": 0.00019,
+      "pnl": 0.00095,
+      "when": "2026-07-17 12:01",
+      "closed": true
     },
     {
-      "sig": "5L5mKf6qXb9WRPm6...",
-      "time": "2026-07-15 16:07",
-      "solscan": "https://solscan.io/tx/5L5mKf6qXb9WRPm6dQx5jsedqupaKec8digePMHrN882L3ypxb5TwBjuYkLPnLTyCkydvRRecMLxGcx3gcmcV4wL"
+      "coin": "BTC",
+      "side": "Open Short",
+      "entry": 63336.0,
+      "exit": 63336.0,
+      "sz": 0.00019,
+      "pnl": 0.0,
+      "when": "2026-07-17 12:01",
+      "closed": false
     },
     {
-      "sig": "k294Uy8TA6j4UBdq...",
-      "time": "2026-07-15 15:47",
-      "solscan": "https://solscan.io/tx/k294Uy8TA6j4UBdqaURBK2AugQwT4T5zGCSczRVEA3y3yJxXzNwB5TDfD4rAkfk1UKXj4wp1o2SKaK8DCX6Lzw6"
+      "coin": "BTC",
+      "side": "Close Short",
+      "entry": 63361.0,
+      "exit": 63361.0,
+      "sz": 0.00019,
+      "pnl": -0.00855,
+      "when": "2026-07-17 12:01",
+      "closed": true
     },
     {
-      "sig": "3Y9LWddtbgVvLimd...",
-      "time": "2026-07-15 15:46",
-      "solscan": "https://solscan.io/tx/3Y9LWddtbgVvLimdVBFmkTmSwjWXUNJgusT8JHcQgCjeehtmef2RoCWEseqMZap8uY4kFHhxrnTVuGVzAQG1QFJ1"
+      "coin": "BTC",
+      "side": "Open Short",
+      "entry": 63316.0,
+      "exit": 63316.0,
+      "sz": 0.00019,
+      "pnl": 0.0,
+      "when": "2026-07-17 12:00",
+      "closed": false
     },
     {
-      "sig": "iHDXaPbVEmivrHP8...",
-      "time": "2026-07-15 15:24",
-      "solscan": "https://solscan.io/tx/iHDXaPbVEmivrHP8dFDAsnJu61RztbA1cgKSRUWHahX3JkfeybXvKRnGxa1FMFubTmtqsrUzVMCVM1z6TPzqydk"
+      "coin": "kBONK",
+      "side": "Close Short",
+      "entry": 0.003287,
+      "exit": 0.003287,
+      "sz": 3342.0,
+      "pnl": 0.080208,
+      "when": "2026-07-17 11:55",
+      "closed": true
     },
     {
-      "sig": "2k99EKgTQorgvw3f...",
-      "time": "2026-07-15 14:09",
-      "solscan": "https://solscan.io/tx/2k99EKgTQorgvw3fJVbQutLMStMV3kNgMj265pBmtAWKMKiXZSPLog4dznzUVthcHHCGU4HxBzPMyFVWgKMg9sND"
+      "coin": "kBONK",
+      "side": "Open Short",
+      "entry": 0.003311,
+      "exit": 0.003311,
+      "sz": 3342.0,
+      "pnl": 0.0,
+      "when": "2026-07-17 04:57",
+      "closed": false
     },
     {
-      "sig": "ArmuuVPNZx8tXfW5...",
-      "time": "2026-07-15 14:08",
-      "solscan": "https://solscan.io/tx/ArmuuVPNZx8tXfW5BPgr7CRtWK5DSiABgRa96UFcKVDtFRi6iNYU9ohBBT1XgTaNg76qdTiWdqmHTG9vNN8Y1ki"
+      "coin": "kBONK",
+      "side": "Close Short",
+      "entry": 0.003338,
+      "exit": 0.003338,
+      "sz": 3304.0,
+      "pnl": 0.03304,
+      "when": "2026-07-17 04:00",
+      "closed": true
+    },
+    {
+      "coin": "kBONK",
+      "side": "Open Short",
+      "entry": 0.003348,
+      "exit": 0.003348,
+      "sz": 3304.0,
+      "pnl": 0.0,
+      "when": "2026-07-17 03:57",
+      "closed": false
+    },
+    {
+      "coin": "kBONK",
+      "side": "Close Short",
+      "entry": 0.003339,
+      "exit": 0.003339,
+      "sz": 3308.0,
+      "pnl": 0.01654,
+      "when": "2026-07-17 03:54",
+      "closed": true
+    },
+    {
+      "coin": "kBONK",
+      "side": "Open Short",
+      "entry": 0.003344,
+      "exit": 0.003344,
+      "sz": 3308.0,
+      "pnl": 0.0,
+      "when": "2026-07-17 02:01",
+      "closed": false
+    },
+    {
+      "coin": "kBONK",
+      "side": "Close Short",
+      "entry": 0.00336,
+      "exit": 0.00336,
+      "sz": 3288.0,
+      "pnl": 0.013152,
+      "when": "2026-07-17 02:00",
+      "closed": true
+    },
+    {
+      "coin": "kBONK",
+      "side": "Open Short",
+      "entry": 0.003364,
+      "exit": 0.003364,
+      "sz": 3288.0,
+      "pnl": 0.0,
+      "when": "2026-07-17 01:54",
+      "closed": false
+    },
+    {
+      "coin": "kBONK",
+      "side": "Close Short",
+      "entry": 0.003379,
+      "exit": 0.003379,
+      "sz": 3271.0,
+      "pnl": 0.006542,
+      "when": "2026-07-17 01:51",
+      "closed": true
+    },
+    {
+      "coin": "kBONK",
+      "side": "Open Short",
+      "entry": 0.003381,
+      "exit": 0.003381,
+      "sz": 3271.0,
+      "pnl": 0.0,
+      "when": "2026-07-17 01:28",
+      "closed": false
+    },
+    {
+      "coin": "WIF",
+      "side": "Close Short",
+      "entry": 0.15061,
+      "exit": 0.15061,
+      "sz": 71.0,
+      "pnl": 0.20803,
+      "when": "2026-07-17 00:12",
+      "closed": true
+    },
+    {
+      "coin": "WIF",
+      "side": "Open Short",
+      "entry": 0.15354,
+      "exit": 0.15354,
+      "sz": 71.0,
+      "pnl": 0.0,
+      "when": "2026-07-16 21:39",
+      "closed": false
+    },
+    {
+      "coin": "WIF",
+      "side": "Close Short",
+      "entry": 0.15367,
+      "exit": 0.15367,
+      "sz": 72.0,
+      "pnl": -0.01872,
+      "when": "2026-07-16 21:38",
+      "closed": true
+    },
+    {
+      "coin": "WIF",
+      "side": "Open Short",
+      "entry": 0.15341,
+      "exit": 0.15341,
+      "sz": 72.0,
+      "pnl": 0.0,
+      "when": "2026-07-16 21:36",
+      "closed": false
     }
-  ]
+  ],
+  "realized_pnl_usd": 0.3371,
+  "txs": []
 }

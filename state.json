@@ -1,20 +1,20 @@
 {
-  "updated": "2026-07-17 15:09:52 UTC",
+  "updated": "2026-07-17 15:18:14 UTC",
   "wallet": "D8kchufoRN5kYzniEzD77xCWy2B89uMz5bP89hwTqcLm",
   "sol": 0.0009,
   "usdt": 0.0062,
-  "price": 64.74,
-  "hl_spot_usdc": 24.65,
+  "price": 64.64,
+  "hl_spot_usdc": 24.58,
   "hl_perp_av": 0.0,
-  "total_usd": 24.72,
+  "total_usd": 24.65,
   "hl_coin": null,
-  "pot_eur": 22.74,
+  "pot_eur": 22.68,
   "start_eur": 8.59,
-  "pnl_eur": 14.15,
+  "pnl_eur": 14.09,
   "pnl_pct": 0.0,
   "fees_eur": 0.0155,
-  "pnl_net_eur": 14.14,
-  "pnl_net_pct": 164.6,
+  "pnl_net_eur": 14.07,
+  "pnl_net_pct": 163.83,
   "position": null,
   "entry_px": null,
   "pos_pnl_pct": null,
@@ -22,6 +22,146 @@
   "pos_now_px": null,
   "pos_size": null,
   "hl_trades": [
+    {
+      "coin": "kBONK",
+      "side": "Close Short",
+      "entry": 0.00317,
+      "exit": 0.00317,
+      "sz": 3781.0,
+      "pnl": 0.0,
+      "when": "2026-07-17 15:17",
+      "closed": true
+    },
+    {
+      "coin": "kBONK",
+      "side": "Open Short",
+      "entry": 0.00317,
+      "exit": 0.00317,
+      "sz": 3781.0,
+      "pnl": 0.0,
+      "when": "2026-07-17 15:17",
+      "closed": false
+    },
+    {
+      "coin": "WIF",
+      "side": "Close Short",
+      "entry": 0.15246,
+      "exit": 0.15246,
+      "sz": 79.0,
+      "pnl": -0.00395,
+      "when": "2026-07-17 15:16",
+      "closed": true
+    },
+    {
+      "coin": "kBONK",
+      "side": "Close Short",
+      "entry": 0.003172,
+      "exit": 0.003172,
+      "sz": 3780.0,
+      "pnl": 0.01134,
+      "when": "2026-07-17 15:16",
+      "closed": true
+    },
+    {
+      "coin": "kPEPE",
+      "side": "Close Short",
+      "entry": 0.002684,
+      "exit": 0.002684,
+      "sz": 4469.0,
+      "pnl": 0.0,
+      "when": "2026-07-17 15:16",
+      "closed": true
+    },
+    {
+      "coin": "ETH",
+      "side": "Close Short",
+      "entry": 1813.7,
+      "exit": 1813.7,
+      "sz": 0.0066,
+      "pnl": -0.00396,
+      "when": "2026-07-17 15:15",
+      "closed": true
+    },
+    {
+      "coin": "ETH",
+      "side": "Open Short",
+      "entry": 1813.1,
+      "exit": 1813.1,
+      "sz": 0.0066,
+      "pnl": 0.0,
+      "when": "2026-07-17 15:15",
+      "closed": false
+    },
+    {
+      "coin": "SOL",
+      "side": "Close Short",
+      "entry": 73.896,
+      "exit": 73.896,
+      "sz": 0.16,
+      "pnl": -0.00016,
+      "when": "2026-07-17 15:15",
+      "closed": true
+    },
+    {
+      "coin": "SOL",
+      "side": "Open Short",
+      "entry": 73.895,
+      "exit": 73.895,
+      "sz": 0.16,
+      "pnl": 0.0,
+      "when": "2026-07-17 15:15",
+      "closed": false
+    },
+    {
+      "coin": "DOGE",
+      "side": "Close Short",
+      "entry": 0.071572,
+      "exit": 0.071572,
+      "sz": 168.0,
+      "pnl": 0.000504,
+      "when": "2026-07-17 15:15",
+      "closed": true
+    },
+    {
+      "coin": "DOGE",
+      "side": "Open Short",
+      "entry": 0.071575,
+      "exit": 0.071575,
+      "sz": 168.0,
+      "pnl": 0.0,
+      "when": "2026-07-17 15:15",
+      "closed": false
+    },
+    {
+      "coin": "WIF",
+      "side": "Open Short",
+      "entry": 0.15241,
+      "exit": 0.15241,
+      "sz": 79.0,
+      "pnl": 0.0,
+      "when": "2026-07-17 15:15",
+      "closed": false
+    },
+    {
+      "coin": "kPEPE",
+      "side": "Open Short",
+      "entry": 0.002684,
+      "exit": 0.002684,
+      "sz": 4469.0,
+      "pnl": 0.0,
+      "when": "2026-07-17 15:15",
+      "closed": false
+    },
+    {
+      "coin": "kBONK",
+      "side": "Open Short",
+      "entry": 0.003175,
+      "exit": 0.003175,
+      "sz": 3780.0,
+      "pnl": 0.0,
+      "when": "2026-07-17 15:14",
+      "closed": false
+    },
     {
       "coin": "SOL",
       "side": "Close Short",
@@ -81,148 +221,8 @@
       "pnl": 0.0,
       "when": "2026-07-17 12:00",
       "closed": false
-    },
-    {
-      "coin": "kBONK",
-      "side": "Close Short",
-      "entry": 0.003287,
-      "exit": 0.003287,
-      "sz": 3342.0,
-      "pnl": 0.080208,
-      "when": "2026-07-17 11:55",
-      "closed": true
-    },
-    {
-      "coin": "kBONK",
-      "side": "Open Short",
-      "entry": 0.003311,
-      "exit": 0.003311,
-      "sz": 3342.0,
-      "pnl": 0.0,
-      "when": "2026-07-17 04:57",
-      "closed": false
-    },
-    {
-      "coin": "kBONK",
-      "side": "Close Short",
-      "entry": 0.003338,
-      "exit": 0.003338,
-      "sz": 3304.0,
-      "pnl": 0.03304,
-      "when": "2026-07-17 04:00",
-      "closed": true
-    },
-    {
-      "coin": "kBONK",
-      "side": "Open Short",
-      "entry": 0.003348,
-      "exit": 0.003348,
-      "sz": 3304.0,
-      "pnl": 0.0,
-      "when": "2026-07-17 03:57",
-      "closed": false
-    },
-    {
-      "coin": "kBONK",
-      "side": "Close Short",
-      "entry": 0.003339,
-      "exit": 0.003339,
-      "sz": 3308.0,
-      "pnl": 0.01654,
-      "when": "2026-07-17 03:54",
-      "closed": true
-    },
-    {
-      "coin": "kBONK",
-      "side": "Open Short",
-      "entry": 0.003344,
-      "exit": 0.003344,
-      "sz": 3308.0,
-      "pnl": 0.0,
-      "when": "2026-07-17 02:01",
-      "closed": false
-    },
-    {
-      "coin": "kBONK",
-      "side": "Close Short",
-      "entry": 0.00336,
-      "exit": 0.00336,
-      "sz": 3288.0,
-      "pnl": 0.013152,
-      "when": "2026-07-17 02:00",
-      "closed": true
-    },
-    {
-      "coin": "kBONK",
-      "side": "Open Short",
-      "entry": 0.003364,
-      "exit": 0.003364,
-      "sz": 3288.0,
-      "pnl": 0.0,
-      "when": "2026-07-17 01:54",
-      "closed": false
-    },
-    {
-      "coin": "kBONK",
-      "side": "Close Short",
-      "entry": 0.003379,
-      "exit": 0.003379,
-      "sz": 3271.0,
-      "pnl": 0.006542,
-      "when": "2026-07-17 01:51",
-      "closed": true
-    },
-    {
-      "coin": "kBONK",
-      "side": "Open Short",
-      "entry": 0.003381,
-      "exit": 0.003381,
-      "sz": 3271.0,
-      "pnl": 0.0,
-      "when": "2026-07-17 01:28",
-      "closed": false
-    },
-    {
-      "coin": "WIF",
-      "side": "Close Short",
-      "entry": 0.15061,
-      "exit": 0.15061,
-      "sz": 71.0,
-      "pnl": 0.20803,
-      "when": "2026-07-17 00:12",
-      "closed": true
-    },
-    {
-      "coin": "WIF",
-      "side": "Open Short",
-      "entry": 0.15354,
-      "exit": 0.15354,
-      "sz": 71.0,
-      "pnl": 0.0,
-      "when": "2026-07-16 21:39",
-      "closed": false
-    },
-    {
-      "coin": "WIF",
-      "side": "Close Short",
-      "entry": 0.15367,
-      "exit": 0.15367,
-      "sz": 72.0,
-      "pnl": -0.01872,
-      "when": "2026-07-16 21:38",
-      "closed": true
-    },
-    {
-      "coin": "WIF",
-      "side": "Open Short",
-      "entry": 0.15341,
-      "exit": 0.15341,
-      "sz": 72.0,
-      "pnl": 0.0,
-      "when": "2026-07-16 21:36",
-      "closed": false
     }
   ],
-  "realized_pnl_usd": 0.3371,
+  "realized_pnl_usd": 0.0021,
   "txs": []
 }

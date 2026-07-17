@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-17 22:27:37 CEST",
+  "updated": "2026-07-17 22:32:24 CEST",
   "wallet": "D8kchufoRN5kYzniEzD77xCWy2B89uMz5bP89hwTqcLm",
   "sol": 0.0009,
   "usdt": 0.0062,
-  "price": 65.56,
+  "price": 65.58,
   "hl_spot_usdc": 24.15,
   "hl_perp_av": 1.94,
   "total_usd": 26.17,
@@ -17,9 +17,9 @@
   "pnl_net_pct": 180.06,
   "position": "long",
   "entry_px": 0.003202,
-  "pos_pnl_pct": 0.09,
+  "pos_pnl_pct": 0.06,
   "pos_coin": "kBONK",
-  "pos_now_px": 0.003205,
+  "pos_now_px": 0.003204,
   "pos_size": 6221.0,
   "hl_trades": [
     {
